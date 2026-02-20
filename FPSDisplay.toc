@@ -1,10 +1,10 @@
-## Interface: 120000
+## Interface: 120000, 120001
 
 ## Title: |cFF0070DDFPS Display|r
 ## Notes: Displays FPS with customizable font
-## Author: Fafnyir
-## Version: v1.0.0
-## IconTexture: Interface\AddOns\FPSDisplay\Logo\AddonLogo
+## IconTexture: Interface\AddOns\FPSDisplay\logo\AddonLogo
 ## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
+## Author: Fafnyir
+## Version: 1.0
 
 FPSDisplay.lua
