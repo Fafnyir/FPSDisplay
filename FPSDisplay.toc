@@ -1,9 +1,10 @@
 ## Interface: 120000
 
-## Title: |cFFFFFFFFFPS Display|r
+## Title: |cFF0070DDFPS Display|r
 ## Notes: Displays FPS with customizable font
 ## Author: Fafnyir
+## Version: v1.0.0
 ## IconTexture: Interface\AddOns\FPSDisplay\Logo\AddonLogo
-## X-Wago-ID: L6JDjdGv
+## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
 
 FPSDisplay.lua
