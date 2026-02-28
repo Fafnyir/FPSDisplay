@@ -1,0 +1,9 @@
+## Interface: 120000
+
+## Title: |cFFFFFFFFFPS Display|r
+## Notes: Displays FPS with customizable font
+## Author: Fafnyir
+## IconTexture: Interface\AddOns\FPSDisplay\Logo\AddonLogo
+## X-Wago-ID: L6JDjdGv
+
+FPSDisplay.lua
