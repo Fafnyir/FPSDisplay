@@ -87,7 +87,8 @@ end)
 -- ❻‑‑‑ Update ticker (4× sec)
 C_Timer.NewTicker(0.25, function()
     if fpsFrame:IsShown() then
-        fpsText:SetFormattedText("FPS: %.1f", GetFramerate())
+        local _, _, latencyHome, latencyWorld = GetNetStats()
+        fpsText:SetFormattedText("%.1f FPS - %d MS", GetFramerate(), latencyWorld)
     end
 end)
 
