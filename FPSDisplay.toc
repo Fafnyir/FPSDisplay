@@ -5,6 +5,7 @@
 ## IconTexture: Interface\AddOns\FPSDisplay\logo\AddonLogo
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## Author: Fafnyir
-## Version: 1.0
+## Version: v1.0.1
+## X-Wago-ID: v633Y76b
 
 FPSDisplay.lua
